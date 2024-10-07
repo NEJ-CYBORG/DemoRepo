@@ -1,0 +1,45 @@
+2024-09-23 23:36:35,583 : INFO : test_e2e : getting all card titles
+2024-09-23 23:36:41,013 : INFO : test_e2e : text match ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-09-23 23:38:23,504 : INFO : test_e2e : getting all card titles
+2024-09-23 23:38:29,001 : INFO : test_e2e : text match ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-09-23 23:51:55,879 : INFO : test_formSubmission : the firstname is NeerajTried
+2024-09-23 23:51:58,482 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-23 23:51:58,482 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-24 00:20:29,789 : INFO : test_formSubmission : the firstname is NeerajTried
+2024-09-24 00:20:32,474 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-24 00:20:32,474 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-24 00:20:37,180 : INFO : test_e2e : getting all card titles
+2024-09-24 00:20:42,609 : INFO : test_e2e : text match ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-09-25 23:57:35,928 : INFO : test_formSubmission : the firstname is NeerajTried
+2024-09-25 23:57:38,490 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-25 23:57:38,490 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-25 23:57:43,255 : INFO : test_e2e : getting all card titles
+2024-09-25 23:57:48,802 : INFO : test_e2e : text match ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-09-26 23:59:46,420 : INFO : test_formSubmission : the firstname is NeerajTried
+2024-09-26 23:59:49,018 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-26 23:59:49,018 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-26 23:59:54,035 : INFO : test_e2e : getting all card titles
+2024-09-26 23:59:59,471 : INFO : test_e2e : text match ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-09-27 00:01:31,628 : INFO : test_formSubmission : the firstname is NeerajTried
+2024-09-27 00:01:34,804 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-27 00:01:34,804 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-27 00:01:44,742 : INFO : test_e2e : getting all card titles
+2024-09-27 00:01:51,003 : INFO : test_e2e : text match ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-09-27 00:24:56,374 : INFO : test_formSubmission : the firstname is NeerajTried
+2024-09-27 00:24:58,950 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-27 00:24:58,950 : INFO : test_formSubmission : the firstname is NiluDa
+2024-09-27 00:25:03,438 : INFO : test_e2e : getting all card titles
+2024-09-27 00:25:08,890 : INFO : test_e2e : text match ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-09-28 00:20:29,677 : INFO : test_formSubmission : the firstname is Neeraj
+2024-09-28 00:20:46,916 : INFO : test_formSubmission : the firstname is Neeraj
+2024-09-28 00:25:49,574 : INFO : test_formSubmission : the firstname is Neeraj
+2024-09-28 00:27:15,389 : INFO : test_formSubmission : the firstname is Neeraj
+2024-09-28 00:30:13,720 : INFO : test_formSubmission : the firstname is e
+2024-09-28 00:30:36,144 : INFO : test_formSubmission : the firstname is Niladri
